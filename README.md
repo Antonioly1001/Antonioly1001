@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Antonioly1001
-- 👀 I’m interested in computer science 
-- 🌱 I’m currently learning Javascript, C++, C#, HTML+CSS, Blender
-- 💞️ I’m looking to collaborate on small scale projects, startup video games 
+- 👀 I’m interested in computer science 🖥️
+- 🌱 I’m currently learning Javascript, C++, C#, HTML+CSS, Blender, Adobe Creative Suite
+- 💞️ I’m looking to collaborate on small scale projects, startup video games 🎮, startup websites
 - 📫 How to reach me antonioholgate@gmail.com
 
 <!---
